@@ -1,0 +1,14 @@
+#countdown_box {
+    height: auto;
+    width: 350px;
+    padding: 4px;
+    margin:10px;
+    background-color: white;
+    text-align: center;
+}
+body {
+    background-image: url('/team_images/orangers.jpg');
+}
+table {
+    background-color: white;
+}
